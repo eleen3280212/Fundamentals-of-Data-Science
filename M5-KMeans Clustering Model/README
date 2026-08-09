@@ -1,0 +1,5 @@
+Use your dataset to complete the following in Python:
+Develop a k-means multivariate clustering model for three clusters (k=3)
+Compare the cluster memberships to the actual class labels. How accurate is the clustering algorithm?
+(Hint: here you will compare the cluster labels of all data points to their actual labels, 
+which you can do by using a two-column side-by-side comparison in Excel).
